@@ -1,0 +1,341 @@
+lat,lng,Name,Grade,Type,Region,SubRegion,System,WetCave,Depth,Length,ShortDescription,LongDescription,RiggingGuide,Survey,EntranceImage,Image2,Image3,SRT,Gear,FutherDescription,SurveyLink,Warnings,References,DifficultyLevel,AccessPermitRequired,BestSeason,KeyFeatures,HistoricalSignificance,DiscoveryYear,ArchaeologicalFindings,ConservationStatus,VisitorCapacity,GuidedToursAvailable,LocalClubs,EmergencyExits,WaterSources,TemperatureRange,MappingUpdates,RouteName,RouteDifficulty,RouteLength,RouteDuration,RouteDescription,RouteHazards,HistoricalTimeline,NotableExplorers,ParkingCoordinatesLat,ParkingCoordinatesLng,PermitApplicationLink,RequiredRopes,RequiredMetal,RequiredOther,SpecialisedGear,SRTSetup,RoutePointsOfInterest,Routes,FloodRisk,Extra,PointCloudURL
+54.1486,-2.3769,Gaping Gill,5C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,110m,15km,"The Gaping Gill system, spanning 15km with 21 entrances, is centered around the Main Chamber, home to a 100m waterfall. Key routes include Main Shaft Direct (5C), Dihedral (5B), and Rat Hole (5C). Requires 2x60m ropes, deviations, and Y-hangs. Severe flood risk during rain; avoid unless conditions are bone-dry.","Main Shaft Direct begins at the iconic open shaft (grid reference SD 75120 72690). After a 10m traverse along the right wall, clip into a deviation anchor and swing left into a narrow rift. Follow a series of ledges to a Y-hang rigged with resin-bonded anchors. The 85m free-hang descent lands on the Main Chamber floor, 20m northwest of the waterfall’s plunge pool. Use a whistle to signal “rope-free” at the base. Dihedral Route diverges 25m northeast of the Main Shaft. Enter Jib Tunnel, a low crawl leading to a 40m pitch rigged to a daylight-lit ledge. From here, descend two rebelays (8m and 10m) before a final 40m hang into the chamber. Rat Hole, accessible 40m upstream under Fell Beck, involves a 10m crawl through boulders to Rat Hole Sink. Navigate Mousehole Pitch (50m), rigged with deviations at -25m (left wall) and -35m (right flake), and traverse an exposed rift to the final 35m hang.
+
+Hazards & Historical Context:
+
+Flood Dynamics: The Main Chamber fills rapidly during rain, transforming into a lake that floods South-East Passage. Fell Beck’s flow rate must be monitored hourly.
+
+Rockfall: Dihedral’s upper ledge is littered with unstable debris; avoid pendulum swings into the waterfall’s spray zone.
+
+Exchange Trips: Coordinate with a second team to exit via Bar Pot (rig a 15m traverse line at South East Pot) or Flood Entrance. Historical records note Édouard Martel’s 1895 exploration, which first mapped the chamber’s vast scale.",CNCC rigging guides for all routes.,Available,GapingGill_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"2x 60m ropes, whistle, descenders","Routes link to Bar Pot, Flood Entrance, and Stream Passage Pot.",https://survey_link,"Flooding, loose rocks",CNCC Guide,Advanced,Yes,Spring-Summer,"Main Chamber, waterfall",First explored in 1842,1842,Fossils,Protected,Limited,No,BPC,Multiple exits,Fell Beck stream,5-10°C,2024,Main Shaft Direct,5C,1.5km,2h,85m pitch into Main Chamber via Y-hang. Dry conditions only.,Vertical exposure,Explored by Édouard Martel (1895),Bob Leakey,54.1425,-2.3756,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,Main Chamber,Links to Bar Pot/Flood,Moderate,Avoid during rain,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1445,2.3791,Stream Passage Pot,5C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,70m,2km,"An active stream cave with four cascading pitches, offering dramatic waterfall deviations and high traverses. Requires 2x60m ropes and meticulous rigging. Sump risk in the final canal; avoid during heavy rain.","Entrance (SD 74835 72535): Begin at the plastic pipe entrance, rigged from a scaffold bar. Tall cavers should install a ladder for exit assistance. First Pitch: Descend 15m into a drippy chamber, then traverse 4m above the stream to the second pitch head. Second Pitch: Climb 5m to a shelf anchor, pendulum-swing over the waterfall to land in a rift passage. Third Pitch: Shuffle along the left wall to a Y-hang, deviating at -4m (left) and -14m (right) to avoid drenching. Fourth Pitch: Choose between an imbalanced Y-hang or single anchor with a mid-pitch deviation. The final 20m drop deposits cavers in Stream Chamber, where the roar of the waterfall echoes through the vast space.
+
+Exit Strategy & Risks:
+
+Sump Alert: The Postbox Crawl, a low canal beyond Stream Chamber, floods catastrophically during storms. Teams must carry a weather radio and retreat at the first sign of rain.
+
+Navigation: From Stream Chamber, scramble up Mud Pot’s left edge, crawl 30m through greasy mud, and turn left at Sand Caverns Junction for the Main Chamber. Historical flooding events in 1987 and 2015 submerged this route for weeks.
+Entrance (SD 74835 72535): Begin at the plastic pipe entrance, rigged from a scaffold bar. Tall cavers should install a ladder for exit assistance. First Pitch: Descend 15m into a drippy chamber, then traverse 4m above the stream to the second pitch head. Second Pitch: Climb 5m to a shelf anchor, pendulum-swing over the waterfall to land in a rift passage. Third Pitch: Shuffle along the left wall to a Y-hang, deviating at -4m (left) and -14m (right) to avoid drenching. Fourth Pitch: Choose between an imbalanced Y-hang or single anchor with a mid-pitch deviation. The final 20m drop deposits cavers in Stream Chamber, where the roar of the waterfall echoes through the vast space.
+
+Exit Strategy & Risks:
+
+Sump Alert: The Postbox Crawl, a low canal beyond Stream Chamber, floods catastrophically during storms. Teams must carry a weather radio and retreat at the first sign of rain.
+
+Navigation: From Stream Chamber, scramble up Mud Pot’s left edge, crawl 30m through greasy mud, and turn left at Sand Caverns Junction for the Main Chamber. Historical flooding events in 1987 and 2015 submerged this route for weeks.",CNCC rigging guide for high traverses.,Available,StreamPassage_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"2x 60m ropes, ladder",Exit via ladder recommended for taller cavers.,https://survey_link,Slippery pipe entrance,CNCC Safety Notes,Advanced,Yes,Spring-Summer,Stream cascades,Historic sporting route,1885,None,Protected,Limited,No,BPC,Traverse ropes,Active stream,5-10°C,2024,Stream Passage Route,5C,2km,3h,Follows active stream through four pitches.,Waterfall exposure,Early descents by CNCC members,CNCC Team,54.1445,-2.379,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,Stream Chamber,Links to Sand Caverns,High,Check weather,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1435,-2.382,Marilyn,4C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,65m,800m,A modern diversion bypassing Disappointment Pot’s wettest sections via Niagara Pitch (5C). Connects to Hensler’s Master Cave. Loose rocks plague pitch heads; dry conditions essential.,"Entrance (SD 75235 72450): The metal trapdoor in a shallow shakehole marks the start. Descend four rebelays in a narrow rift, each ledge equipped with resin-bonded anchors. Niagara Pitch demands a traverse out from a precarious ledge, rigging deviations to skirt the waterfall. The 40m hang lands in the Disappointment streamway between its third and fourth pitches. Downstream, climb down boulders to the river passage and turn left into New Hensler’s Passage, a 20m crawl over jagged limestone.
+
+Connections & Precautions:
+
+Rockfall Zones: Niagara Pitch’s upper section is notorious for dislodging debris; teams must stand clear during ascents.
+
+Historical Link: Marilyn, opened in 2005, revolutionized access to Hensler’s Master Cave, bypassing the infamous Portcullis Duck. Downstream leads to the Far Country, guarded by the Southgate Duck, a 10m submerged crawl first explored in 1972.",CNCC rigging guide for rebelay sequences.,Available,Marilyn_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"2x 60m ropes, helmets",Links to Hensler’s Master Cave.,https://survey_link,Loose rocks,CNCC Route Advisory,Advanced,Yes,Spring-Summer,Niagara Pitch,Opened in 2005,2005,None,Protected,Limited,No,BPC,Traverse lines,Seasonal stream,5-10°C,2024,Marilyn Route,4C,800m,2h,Descent via Marilyn to Disappointment stream.,Rockfall,Modern diversion route,CNCC Explorers,54.1435,-2.382,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,Niagara Pitch,Links to Disappointment,Moderate,Avoid storms,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.147,-2.376,Corky’s Pot,5D,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,60m,1.2km,An expert-only route to Mud Hall via Anniversary Pitch and Vindication Pitch (60m). Unstable walls and non-CNCC anchors demand natural belays.,"Entrance (SD 75270 72680): The bricked shaft descends into unstable terrain. Anniversary Pitch requires feet-first rigging due to the impossibility of turning around. Navigate Nemesis Crawl, a 10m thrutch over slabs, to the Elephant’s Arse, a calcite squeeze. Vindication Pitch must be rigged from the far-left anchor to avoid a mid-pitch rub point. The 60m hang lands in Mud Hall, where a traverse along the right wall (collapsed in 2017) leads to a chain-assisted climb.
+
+Hazards & Legacy:
+
+Collapse Risk: The traverse ledge above Mud Hall has shifted annually since 2017; rig personal safety lines.
+
+Historical Note: Corky’s Pot, discovered in the 1980s, was named after caver Dave “Corky” Cobley, who pioneered the route despite multiple rockfall injuries.",Sketch topo included.,Available,CorkysPot_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"1x 60m rope, slings",Avoid during wet weather.,https://survey_link,Unstable walls,CNCC Hazard Alert,Expert,Yes,Spring-Summer,Vindication Pitch,Discovered in 1980s,1980,None,Protected,Limited,No,BPC,Collapsed sections,Dripping water,5-10°C,2024,Corky’s Pot Route,5D,1.2km,4h,Tight pitches to Mud Hall.,Rockfall,Modern exploration,Dave Cobley,54.147,-2.376,https://bpc.org.uk/permits,1x 60m rope,None,None,Descenders,Minimal SRT setup,Mud Hall,Links to Main Chamber,Moderate,Dry only,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1455,-2.383,Hensler’s Pot,5D,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,85m,2km,A grueling route through AC/DC Pitch and Burnley Pitch to Hensler’s High Aven. Gear loss risk in narrow rifts.,"Entrance: A pipe near Marilyn leads to Glorious Twelfth Passage. Buzzy Pitch involves a traverse over the stream to a Y-hang. AC/DC Pitch (15m rope to rebelay) descends into Haigh’s Bottom Pitch, a 3m climb down. Burnley Pitch requires slings for ascent assistance. Hensler’s High Aven (40m pitch) uses deviations to avoid waterfalls, landing in a chamber linking to Hensler’s Master Cave.
+
+Gear & Legacy:
+
+SRT Management: Remove kits in narrow rifts; secure gear with karabiners.
+
+Literary Fame: Detailed in Mike Cooper’s Not for the Faint Hearted, this route has been a testpiece since the 1910s.",CNCC rigging guide for AC/DC Pitch.,Available,Henslers_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"2x 60m ropes, slings",Requires SRT gear management.,https://survey_link,Gear loss risk,CNCC Technical Guide,Expert,Yes,Spring-Summer,Burnley Pitch,Detailed in 'Not for the Faint Hearted',1910,None,Protected,Limited,No,BPC,Anchor backups,Active stream,5-10°C,2024,Hensler’s Route,5D,2km,4h,Complex rifts to Mud Hall.,Rope rub,20th-century exploration,Mike Cooper,54.1455,-2.383,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,Hensler’s High Aven,Links to Far Country,Moderate,Expert teams,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.147,-2.3775,Rat Hole,5C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,50m,600m,A low crawl under Fell Beck to Mousehole Pitch (50m). Exposed traverses; dam often blocks Rat Hole Sink.,"Entrance: 40m upstream of Main Shaft. Crawl 10m under boulders to Rat Hole Sink, often dammed by debris. Mousehole Pitch is rigged with deviations at -25m (left) and -35m (right). Traverse an exposed rift to the final 35m hang, landing near the Main Chamber’s waterfall.
+
+Safety & History:
+
+Debris Checks: Inspect Rat Hole Sink pre-descent; 2003 saw a caver trapped by a logjam.
+
+Victorian Exploration: E. E. Roberts’ 1890 descent popularized this “backdoor” route.",CNCC rigging guide for Mousehole deviations.,Available,RatHole_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"1x 50m rope, knee pads",Dam often present at Rat Hole Sink.,https://survey_link,Unstable dams,CNCC Route Notes,Advanced,Yes,Spring-Summer,Mousehole Pitch,Less-traveled route,1890,None,Protected,Limited,No,BPC,None marked,Fell Beck stream,5-10°C,2024,Rat Hole Route,5C,600m,2h,Crawls to Main Chamber.,Narrow slots,Early exploration,E. E. Roberts,54.146,-2.378,https://bpc.org.uk/permits,1x 50m rope,None,None,Descenders,Full SRT setup,Mousehole Pitch,Links to Main Shaft,Moderate,Dry weather,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.142,-2.38,Disappointment Pot,5C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,75m,1.5km,A historic wet route featuring the Portcullis Duck (1m airspace). Connects to Marilyn and Hensler’s Master Cave. Sump risk mandates dry conditions.,"Entrance: The large shakehole descends into a boulder-strewn stream canyon. Portcullis Duck, a 1m airspace crawl, requires exhaling to reduce buoyancy. Beyond, traverse ledges to Y-hang pitches. The final drop lands in a boulder chamber; follow the river to Hensler’s Master Cave, then crawl 100m through New Hensler’s Passage to Bar Pot’s South East Pot.
+
+Historical & Modern Context:
+
+Pioneering Exploration: Bob Leakey’s 1850s naked dive through the sumped duck remains legendary.
+
+Marilyn Bypass: Modern teams ascend Niagara Pitch to avoid the duck, though purists still tackle Disappointment Pot for its historical significance.",CNCC rigging guide for Niagara Pitch.,Available,Disappointment_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"1x 50m rope, waterproof suit",Historic route.,https://survey_link,Sumping risk,CNCC Heritage Notes,Advanced,Yes,Spring-Summer,Portcullis Duck,Pioneered by Bob Leakey,1850,None,Protected,Limited,No,BPC,In-situ ropes,Active stream,5-10°C,2024,Disappointment Route,5C,1.5km,2.5h,Wet crawls to Hensler’s.,Low airspace,19th-century,Bob Leakey,54.142,-2.38,https://bpc.org.uk/permits,1x 50m rope,None,None,Descenders,Full SRT setup,Hensler’s Master Cave,Links to Marilyn,High,Dry only,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1418,-2.3745,Flood Entrance (Wade’s),5D,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,80m,700m,A high-risk route to South East Pot via steep pitches and cobbled crawls. Expert-only; sump risk during rain.,"Entrance: 75m along the Gaping Gill path. Descend a narrow rift with rebelays on rock bridges, followed by a 100m cobbled crawl (knee pads advised). South East Pot is rigged with deviations to avoid water; exit via a shelf traverse linked to Bar Pot or crawl to New Hensler’s Passage.
+
+Emergency Protocols:
+
+Flood Evacuation: If water rises, ascend immediately—Main Chamber floods within 30 minutes.
+
+Historical Floods: The 1998 deluge trapped a team for 18 hours, prompting CNCC’s strict flood warnings.",CNCC rigging guide for South East Pot.,Available,FloodEntrance_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"2x 60m ropes, waterproof gear",Expert-only.,https://survey_link,Extreme flood risk,CNCC Flood Warnings,Expert,Yes,Spring-Summer,Steep shafts,Named after Wade (1890),1890,None,Protected,Limited,No,BPC,None marked,Active stream,5-10°C,2024,Flood Entrance Route,5D,700m,1.5h,Descent to South East Pot.,Sump risk,1890s descent,James Wade,54.1418,-2.3745,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,South East Pot,Links to Bar Pot,High,Avoid rain,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1442,-2.378,Stile Pot,4C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,60m,600m,A lesser-known multi-pitch route to Bar Pot. Route ambiguity demands careful rigging.,"Entrance: Near the double-stile path. Descend three pitches (8m, 10m, 12m) with Y-hangs. Follow cobbled crawls to Bar Pot’s Big Pitch. Exit via a 15m traverse line at South East Pot or ascend Bar Pot’s entrance.
+
+Navigation Tips:
+
+Marking Junctions: Use removable chalk arrows; permanent marks violate conservation ethics.
+
+Congestion Workaround: Use both Big Pitch routes if meeting another team.",CNCC rigging guide for multi-pitch.,Available,StilePot_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,1x 50m rope,Careful rigging required.,https://survey_link,Route ambiguity,CNCC Route Descriptions,Advanced,Yes,Spring-Summer,Series of pitches,Discovered in 1895,1895,None,Protected,Limited,No,BPC,Marked anchors,None,5-10°C,2024,Stile Pot Route,4C,600m,1h,Technical ropework.,Rockfall,Craven Pothole Club,Arthur Gemmell,54.1442,-2.378,https://bpc.org.uk/permits,1x 50m rope,None,None,Descenders,Full SRT setup,Multi-pitch,Links to Bar Pot,Moderate,Stable weather,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1463,-2.381,Small Mammal Pot,5C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,50m,500m,A tight entrance linking to Bar Pot above Greasy Slab. Polished limestone traverse; slimmer cavers only.,"Entrance: Shakehole 5m from Bar Pot. Crawl 8m to the Greasy Slab junction. Rig deviations on polished limestone to descend into Bar Pot’s chamber. Ascend via the slab (handline recommended) or exit through Bar Pot’s entrance.
+
+Gear & Legacy:
+
+Rope Care: Limestone edges fray ropes; inspect every 10m.
+
+1900 Discovery: Frankland Rigby’s team first connected Small Mammal to Bar Pot, easing access for larger groups.",CNCC rigging guide for Small Mammal-Bar Pot link.,Available,SmallMammal_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,1x 50m rope,Avoid during wet conditions.,https://survey_link,Restricted movement,CNCC Technical Notes,Advanced,Yes,Spring-Summer,Polished limestone,Alternative to Bar Pot,1900,None,Protected,Limited,No,BPC,Limited exits,None,5-10°C,2024,Small Mammal Route,5C,500m,1h,Crawls to Bar Pot.,Disorientation,1920s rigging,Frankland Rigby,54.1463,-2.381,https://bpc.org.uk/permits,1x 50m rope,None,None,Descenders,Full SRT setup,Greasy Slab,Links to Bar Pot,Moderate,Dry only,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.145,-2.377,Bar Pot,4C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,90m,1km,A novice-friendly but strenuous entrance featuring the Greasy Slab and Big Pitch (30m). Flood-prone; links to Small Mammal Pot.,"Entrance: The shakehole 30m from the Gaping Gill path leads to a tight entrance pitch. Rig a rope loop here for clipping ease. Greasy Slab, a steeply inclined limestone sheet, requires a handline for ascent—novices often underestimate its slickness. Big Pitch offers two routes:
+
+Direct: 60m rope to a shelf rebelay.
+
+Traditional: Traverse under a rock bridge to a 30m hang.
+From South East Pot, traverse the right wall (15m line recommended) to avoid gaping floor holes, then crawl 15m to Sand Caverns Junction.
+
+Flood Dynamics & Alternatives:
+
+Runoff Funnel: Bar Pot’s shakehole channels rainwater into the entrance pitch, creating torrents within minutes.
+
+Small Mammal Bypass: A polished limestone crawl above Greasy Slab offers a less strenuous exit, popular since its 1900 discovery.",CNCC rigging guide for Big Pitch.,Available,BarPot_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"2x 60m ropes, slings",Exit via Small Mammal.,https://survey_link,Flood-prone,CNCC Safety Notes,Advanced,Yes,Spring-Summer,Greasy Slab,Key route since 1870,1870,None,Protected,Limited,No,BPC,Traverse lines,Seasonal streams,5-10°C,2024,Bar Pot Route,4C,1km,1.5h,Vertical descent to Big Pitch.,Exposed rigging,Early SRT training,John Cordingley,54.145,-2.377,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,Big Pitch,Links to Flood Entrance,Moderate,Check weather,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.143,-2.375,OBJ Hole,5C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,55m,400m,Technical entrance.,Features narrow sections. Alternative route.,CNCC rigging guide for narrow pitches.,Available,OBJHole_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,1x 50m rope,Careful navigation required.,https://survey_link,Exposed climbs,CNCC Technical Guide,Advanced,Yes,Spring-Summer,Narrow rifts,Discovered in 1990,1990,None,Protected,Limited,No,BPC,Anchor backups,Seasonal drips,5-10°C,2024,OBJ Hole Route,5C,400m,1h,Tight squeezes.,Anchor wear,Modern route,Mike Cooper,54.143,-2.375,https://bpc.org.uk/permits,1x 50m rope,None,None,Descenders,Full SRT setup,Route-finding,Intermediate,Moderate,Dry only,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.1475,-2.372,Hamel Moss Pot,4C,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,45m,300m,Minor entrance with tight pitches.,Connects to Disappointment Pot streamway.,CNCC rigging guide for short pitches.,Available,HamelMoss_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,1x 40m rope,Slim build recommended.,https://survey_link,Tight crawls,CNCC Notes,Moderate,Yes,Spring-Summer,Streamway link,Discovered in 1932,1932,None,Protected,Limited,No,BPC,None marked,Seasonal stream,5-10°C,2024,Hamel Moss Route,4C,300m,1h,Short pitches to streamway.,Flooding,1930s exploration,Local Club,54.1475,-2.372,https://bpc.org.uk/permits,1x 40m rope,None,None,Descenders,Basic SRT setup,Streamway junction,Links to Disappointment,Moderate,Check conditions,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.149,-2.37,Dock Hole,5D,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,95m,1.1km,A vertical 95m shaft with a 60m free-hang pitch. Loose rocks; expert-only.,"Entrance (SD 75270 72680): Rig a Y-hang with rebelay at 40m. Avoid a protruding rub point at -20m. Land in a streamway connecting to Whitsun Series. Reverse the pitch cautiously; crumbling walls demand staggered ascents.
+
+Exploration Notes:
+
+1955 First Descent: The CNCC team used hemp ropes and carbide lamps, a feat still revered.
+
+Extended Routes: The streamway leads to the Far Country, requiring 8+ hours for a round trip.",CNCC rigging guide for vertical descent.,Available,DockHole_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,2x 60m ropes,Avoid during wet weather.,https://survey_link,Loose rocks,CNCC Warnings,Expert,Yes,Spring-Summer,Vertical shaft,First descent in 1955,1955,None,Protected,Limited,No,BPC,None marked,Dripping water,5-10°C,2024,Dock Hole Route,5D,1.1km,3h,Vertical descent to streamway.,Rockfall,Mid-20th century,CNCC Team,54.149,-2.37,https://bpc.org.uk/permits,2x 60m ropes,None,None,Descenders,Full SRT setup,Vertical shaft,Links to Main System,High,Dry only,https://raw.githubusercontent.com/CaveSurveys/Upper-Long-Churn/refs/heads/main/Upper%20Long%20Churns%20-%20Pointcloud.xyz
+54.15,-2.365,Litton Shaft & Cathedral,6D,Cave,Yorkshire Dales,Ingleborough Massif,Gaping Gill,Yes,120m,2.5km,An extreme expedition requiring sump diving (Grade 6D). Glacial formations; 3x60m ropes and diving gear.,"Entrance (SD 75285 72530): Descend 120m to a sump pool. Dive through submerged passages to the Far Country’s glacial tunnels. Return via Southgate Duck or traverse Whitsun Series.
+
+Expedition Protocol:
+
+Dive Safety: Guideline reels prevent silting; teams must include certified cave divers.
+
+Historic Mapping: First surveyed in 1978, this section remains one of the UK’s most remote.",Expedition rigging guide.,Available,LittonShaft_Entrance.jpg,Image2.jpg,Image3.jpg,Yes,"3x 60m ropes, diving gear",Expedition-only.,https://survey_link,Sump diving,CNCC Expedition Notes,Expert,Yes,Summer,Glacial formations,First mapped in 1978,1978,None,Protected,None,No,BPC,None marked,Underground river,5-10°C,2024,Litton Shaft Route,,,,,,,,,,,,,,,,,,,,
+54.1350818,-2.3771786,Beck Head Stream Cave,,Cave,North Yorkshire,Cononley and Glusburn,,Yes,82m,2km,"19th?C lead mine featuring intact engine house, 50?ft chimney, gunpowder magazine, forge, shaft and inclined plane portals","Developed from 1842 by Duke of Devonshire. Peak production ~804?t in 1850, averaging ~470?t/y 1840–70. Closed 1881; reopened for barytes 1920s–30s (19?600?t recovered). Final mining 1958. Structures Grade?II listed. ",Dig,Not Available,,,,,,,,,,,,All Year,,,,,,,,,,,,,,5D,2km,1,,"Warnings: Unstable structures; steep shafts; no public lighting or barriers  RouteHazards: Loose masonry, unguarded shafts, uneven ground  FloodRisk: Minimal; no active water inflows reported, but deep adits may contain hidden pools  EmergencyExits: None formal—entry should be visual only; underground access strongly discouraged",,,,,,,,,,,,,,,
+54.1494349,-2.3825764,Gaping Gill,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50.667931,-1.519242,Neptune's Caves,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.7380238,-4.6123415,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.7380996,-4.6117229,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50.6156922,-2.1832172,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.365879,-5.812953,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1310709,-2.0386269,Spring Trap Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3454901,-1.8034563,Blue John Cavern,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.2874726,-2.7513277,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.2830084,-2.7633018,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.2819582,-2.7655643,Gough's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.2817353,-2.7689256,Cox's Cave and The Crystal Quest,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.0790091,-1.7885583,Dove Holes,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3961561,-2.7529108,Yorkhouse Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.5392688,-4.2141051,Culver Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3450642,-1.7971699,Treak Cliff Cavern,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3401352,-1.7784394,Devil's Arse (Peak Cavern),,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1462876,-2.3815665,Bar Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2038652,-2.4392788,Heron Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2069045,-2.440665,Heron Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1882709,-2.3885975,Great Douk,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.7982119,-3.5572159,Porth yr Ogof Resurgence (N),,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8001763,-3.5559028,Porth yr Ogof,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1159597,-2.0753805,Douky Bottom Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.14945,-2.1153515,Boreham Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.7465379,-4.8002874,Ogof Diban,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.7487152,-4.8002078,Ogof Ystwffwl Glas,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.7462772,-4.8013657,Ogof Lladron,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8772193,-5.3353016,Ogof Pen-clawdd,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56.6615,-5.0178386,Ossian's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8006259,-3.5554927,Tradesman's Entrance (C),,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8077438,-5.104395,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.6911958,-2.6488066,Miss Grace's Lane Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1420274,-2.2532922,Churn Milk Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1665643,-2.2706575,Hull Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.077867,-2.8016008,Neolithic Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.2293572,-2.6709213,Wookey Hole Caves,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2198622,-2.4993228,County Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.4147402,0.1456565,Denehole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.7972664,-3.0878621,Siambri Ddu,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.4561555,-5.8000476,Hartfield Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2305367,-2.0227535,Black Gutter Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.099423,-2.0302529,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1250415,-1.9852527,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1443526,-1.964153,,,Cave,,,,,,,,cave of debouchement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1454105,-1.9640257,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3347448,-1.8133129,Nettle Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8370602,-2.6607673,King Arthurs Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3371869,-3.8382413,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.7405298,-6.9500756,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2373223,-5.8607041,Breakish Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.2501141,-1.9263169,Poole's Cavern,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.7375784,-2.6787486,Lacy's Caves,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55.8560226,-3.1531191,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55.8566015,-3.1512101,Wallace's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3332856,-1.7932164,Titan Shaft,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.3328933,-1.8395643,P8,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.22131,-2.4965462,Pool Sink,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2068109,-2.4529432,Yordas Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.1627941,-4.6584039,Benson's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8299443,-3.6505495,"Ogof y nos hir, Ogof Ffynnon Ddu (OFD) top entrance",,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8326525,-3.6110947,Pant Mawr,,Cave,,,,,,,,Top entrance to the Ogof Ffynnon Ddu system,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.3677627,-2.3378738,Eden Sike Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1644577,-2.0270178,Dow Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.0672175,-1.8634621,Valentine Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1618062,-2.2676811,Hunt Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.0522428,-2.3478706,Clutter's Cave,,Cave,,,,,,,,Large limestone pot hole. Streem re-issues at Brans Gill Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.9632173,-1.4517396,Hell Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55.5253361,-5.3532515,King's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3025692,-2.7509177,Charterhouse Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3041204,-2.7598978,Tyning's Barrows Swallet,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58.1405232,-4.9298893,Uamh an Tartair,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58.1429634,-4.9395732,Lower Traligill Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58.1406719,-4.9306281,Waterslide Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1936583,-2.3019345,Calf Holes / Dry Lathe Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1951915,-2.3066019,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1950134,-2.307821,Browgill Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58.1080532,-4.9406077,Reindeer Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58.1060038,-4.9395137,Rana Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.0542867,-4.0191782,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56.1809894,-4.4495357,Rob Roy's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.1871729,-5.9317171,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.003637,-1.471214,Mother Shipton's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56.2132278,-2.727393,St Fillan's Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1813286,-2.391183,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.188091,-2.3481903,Pint Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1529682,-2.3652412,Long Kin East Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2071429,-2.4539687,Yordas Pot (Middle Entrance),,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55.4247914,-1.753557,Cave of the Nine Year Old,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.923461,-3.7582766,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2331272,-2.0200404,Will Allen Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2316723,-2.0140323,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.2929408,-2.2128274,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50.4846914,-3.7727534,Reeds cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50.4846272,-3.7745832,Bakers Pit,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3195616,-2.7483191,East Twin Swallet,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3225137,-2.7645864,Read's Cavern,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8272364,-3.6594787,Cwm Dwr (OFD),,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8337935,-3.1731916,Eglwys Faen (Main Entrance),,Cave,,,,,,,,Middle entrance to Ogof Ffynnon Ddu system,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2093357,-2.1624735,Hagg Gill,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1785191,-2.3966705,Sunset Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1915827,-2.4627173,Valley Entrance,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2264723,-2.5195184,Bull Pot of the Witches,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2210687,-2.516764,Lancaster Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.222284,-2.5164162,Cow Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2177218,-2.5099174,Link Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1422243,-2.2777687,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.4271283,-5.8052136,Flake Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1662402,-2.2665724,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1664541,-2.2757241,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1651853,-2.2745634,Little Hull Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1647674,-2.2893649,Sell Gill Holes,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1716203,-2.2825005,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1703679,-2.2893137,Cross Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1554072,-2.2634424,Penyghent Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1596637,-2.2801105,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1593569,-2.279694,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1664843,-2.2674741,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.1434505,-2.2625813,Larch Tree Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2258749,-2.5195537,Hidden Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.2025356,-2.5062616,Lost Johns' Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.321899,-2.7607031,Bos Swallet,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3207926,-2.753767,Goatchurch Cavern,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3212418,-2.7540244,Sidcot Swallet,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3220063,-2.7528978,Pierre's Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3207387,-2.7481673,Lionel's Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3226935,-2.7583643,Bath Swallet,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3224722,-2.7590347,Rod's Pot,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3222443,-2.759952,Drunkard's Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.2943488,-2.8276161,Shute Shelve Cavern,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.3304115,-2.8210286,Sandford Levvy,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.8357279,-3.1804507,Agen Allwedd (Ogof Gam),,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2064103,-5.9734984,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2063981,-5.9754471,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2063168,-5.9721732,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2063086,-5.9713575,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2068481,-5.9572397,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2068651,-5.9579462,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2039894,-5.9628564,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.202467,-5.975374,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2047289,-5.9723282,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2054813,-5.9825204,Iris Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2063346,-5.975575,Ivy Chamber Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2063029,-5.9755499,Ivy Resurgence Cave,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.206266,-5.9755878,Ivy Hole Resurgence,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.206167,-5.9755693,Ivy Hole lower entrance,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2056652,-5.975749,Ivy Hole,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2053223,-5.9761112,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57.2053046,-5.9761352,,,Cave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.05779966,-3.103155539,Minera Mines Busy Bee Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.05027762,-3.07757915,Minera Mines Burtons' Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06464026,-3.116278906,Minera Mines Union Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06594615,-3.116858882,Eisteddfod Mine Eddy's Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06549329,-3.115810757,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06655636,-3.117315492,Eisteddfod Mine Weston Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.0660067,-3.118954677,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.0657072,-3.116511415,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06474561,-3.119276799,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06438579,-3.118693658,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06614854,-3.117386931,Twelve Apostles Mine Shafts,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06612822,-3.118231759,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06535907,-3.11901383,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06404422,-3.113418838,Caepant Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06378829,-3.113227347,Caepant Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.06392877,-3.118098388,Twelve Apostles Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.08773222,-3.099545556,Minera New Mine Adit Level,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50.18376453,-5.258957242,,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.05003089,-4.053852838,Hafod-y-llan Copper Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.00722915,-4.083863535,Cwm Bychan (Nantmor) Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.39019804,1.386685457,Margate Caves,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.56066485,-2.355596053,,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.8211095,-4.640182121,Benallt Iron and Manganese Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.80423403,-2.219951397,Allenheads Lead Ore Works,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.82883198,-1.490289299,Nicholson's Pumping Pit,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.81656229,-2.306950323,Barney Craig Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54.74578453,-2.132831224,Rigg Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51.6029533,-0.390656621,Pinner Chalk Mines,,Mine,,,,,,,Extent approximate.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52.73222679,-3.836904007,Tir Stent Iron Ore Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50.5130183,-4.256615815,Prince of Wales Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.09706212,-3.202479162,Maes-y-pwll Lead Vein Mineshaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11466117,-3.193411308,Craig-y-bryniau Vein Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11363628,-3.194380135,Blaen-y-Nant Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11545027,-3.197822594,Blaen-y-Nant Vein Lead Mine Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11347228,-3.193286343,Blaen-y-Nant Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11069313,-3.199938246,Westminster Lead Mine Nant Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11023219,-3.2006522,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11077363,-3.200927415,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11094603,-3.205617946,Westminster Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11093693,-3.206778415,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11109623,-3.207176465,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11376236,-3.211087309,Westminster Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10272645,-3.177409229,Westminster Lead Mine Bog East Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10221067,-3.179272355,Westminster Lead Mine Bog East Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10284094,-3.181103373,Westminster Lead Mine Bog Mary Anne Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10756517,-3.192816655,Westminster Lead Mine Castell Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10946228,-3.196562172,Westminster Lead Mine New Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11033138,-3.199642872,Westminster Nant Lead Mine Ellis's Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11125093,-3.207792046,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11042203,-3.2063892,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11023693,-3.206087065,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11091333,-3.204293615,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11105393,-3.202568197,Westminster Nant Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10128873,-3.177031782,Westminster Lead Mine Bog East Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10623532,-3.187758763,Westminster Lead Mine Bog Issa Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10621863,-3.189403165,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10616168,-3.189467862,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10609734,-3.189512435,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10664378,-3.188868662,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10674038,-3.188530807,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10663499,-3.188496828,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10653268,-3.188484859,Westminster Lead Mine Bog Issa Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10517728,-3.185041262,Westminster Lead Mine Bog Old Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10400339,-3.183482511,Westminster Lead Mine Bog Old Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10419928,-3.185156688,Westminster Lead Mine Bog Old Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10538028,-3.194363792,Pant-y-Gwlanod Lead Mine Engine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11505515,-3.189612171,Craig-y-bryniau Vein Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.112404,-3.18947446,Blaen-y-Nant Vein Lead Mine Whim Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11554271,-3.198936974,Blaen-y-Nant Vein Lead Mine Ladder Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11688845,-3.205052248,Bryn Scramble Vein Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11727636,-3.207938532,Bryn Scramble Vein Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11823181,-3.206966616,Bryn Scramble Vein Lead Mine,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11940211,-3.204060274,Blaen-y-Nant Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.11942781,-3.208082074,Blaen-y-Nant Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.12049531,-3.209182774,Blaen-y-Nant Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.12196221,-3.208445474,Blaen-y-Nant Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.12541526,-3.207497502,Belgrave Vein Lead Mine Shaft,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.12496427,-3.20449157,Belgrave Vein Lead Mine Adit,,Mine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10117863,-3.7990209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10111283,-3.7987398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10419003,-3.8105168,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10418573,-3.8097511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53.10403873,-3.8098584,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
